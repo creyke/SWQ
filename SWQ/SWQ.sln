@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWQ", "SWQ\SWQ.csproj", "{5A9004CA-DE8A-4EAB-B02B-9AF3E1C90058}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWQ.Tests", "SWQ.Tests\SWQ.Tests.csproj", "{2EBBBE7D-81F2-47F1-B961-55331A674047}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A9004CA-DE8A-4EAB-B02B-9AF3E1C90058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A9004CA-DE8A-4EAB-B02B-9AF3E1C90058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A9004CA-DE8A-4EAB-B02B-9AF3E1C90058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A9004CA-DE8A-4EAB-B02B-9AF3E1C90058}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EBBBE7D-81F2-47F1-B961-55331A674047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EBBBE7D-81F2-47F1-B961-55331A674047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EBBBE7D-81F2-47F1-B961-55331A674047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EBBBE7D-81F2-47F1-B961-55331A674047}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2492D86D-4189-4481-841E-4143E08A8139}
+	EndGlobalSection
+EndGlobal
